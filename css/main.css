@@ -58,6 +58,9 @@ Primary use:
   border: 2px solid #e6e6e6;
   border-radius: 5px;
 }
+.social {
+  margin-top: 45%;
+}
 
 /*---------------------------------------------*/
 .input100 {
@@ -229,8 +232,8 @@ input.input100 {
 .copyright,
 .logoCred {
   font-size: 8px;
-  color: #efefef;
-  margin-top: 50%;
+  color: #242424;
+  margin-top: 5%;
 }
 .copyright {
   margin-top: 0;
